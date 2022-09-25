@@ -8,4 +8,3 @@ c=`expr $a - $b`
 echo ""
 echo "value of a - b is: $c"
 echo ""
-
