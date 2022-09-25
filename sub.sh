@@ -1,6 +1,5 @@
 echo ""
 echo "shell program to sub 2 values"
-echo "this shell script is created by Elangovan"
 echo ""
 read -p "enter the value of a is: " a
 read -p "enter the value of b is: " b
