@@ -1,6 +1,5 @@
 echo ""
 echo "shell program to add 2 values"
-echo "this shelll script created by Elangovan"
 echo ""
 read -p "enter the value of a is: " a
 read -p "enter the value of b is: " b
